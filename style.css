@@ -1,0 +1,22 @@
+/* inside style.css */
+* {
+  background-color: rgb(126, 126, 126);
+  color: rgb(255, 255, 255);
+  font-family: "Courier New", Courier, monospace;
+}
+.highlight {
+  background-color: rgb(74, 139, 236);
+}
+
+.error {
+  background-color: lightcoral;
+  border: red;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+p {
+  font-size: 2rem;
+}
